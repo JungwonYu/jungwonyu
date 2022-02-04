@@ -1,4 +1,4 @@
-![header](http://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JungwonYoo&fontSize=90&)
+![header](http://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JungwonYu&fontSize=90&)
 
 <h3 align="center">🛠Tech Stack🛠</h3>
 
